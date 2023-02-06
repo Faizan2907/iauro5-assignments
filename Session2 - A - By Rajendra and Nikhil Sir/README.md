@@ -1,6 +1,6 @@
 Session2 - A - By Rajendra and Nikhil Sir
 
-# Table with static contents #
+# 1 Table with static contents #
 <img width="50%" hight = "50%" src="https://user-images.githubusercontent.com/67515374/216992581-5e65ec3f-7c35-4b99-a127-dce348992046.png">
 
 # 2 After clicking on the delete button #
